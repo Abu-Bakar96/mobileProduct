@@ -16,7 +16,3 @@
 _Client:_
 * npm install;
 * npm start;
-
-_Server:_
-* npm install;
-* npm start;
